@@ -1,0 +1,83 @@
+.badge{
+    width:100%;
+    margin-bottom: 7%;
+    /* background-color: #ff6600; */
+}
+
+.orange-style{
+    background-color: #ffa600;
+    color: white;
+}
+
+.card-my{
+    width: 90%;
+    margin-left: 20%;
+}
+.card-my:hover{
+    background: transparent;
+    transition: all 0.1s ease;
+    box-shadow: 1px 1px 3px 0px;
+    cursor: pointer;
+  }
+
+.no-decoration:hover{
+    text-decoration: none;
+}
+.img-my{
+    height: 200px;
+    width: 230px;
+}
+
+.bg-light{
+    background-color: #ffffff!important;
+    border-bottom: 1px solid #fff;
+    padding: 10px;
+    /* box-shadow: 5px 10px 8px #ff6600; */
+    -webkit-box-shadow: 0px 5px 11px 2px#ff7b00;
+    -moz-box-shadow: 0px 5px 11px 2px #ff7b00;
+    box-shadow: 0px 5px 11px 2px #ff7b00;
+
+}
+.search-button{
+    background-color:#ff7b00;
+    border: 1px solid #ff7b00;
+    width: 340%;
+}
+
+.search-button:hover{
+    background-color:#ff7b00;
+    border: 1px solid #ff7b00;
+}
+.float-righta{
+    float: right!important;
+    padding-left: 63%;
+}
+
+.fix-top{
+    
+}
+
+.card-border-search {
+    border-color: grey;
+    border-width: 0.5px ;
+    border-style: solid;
+    box-shadow: 6px 6px 4px grey;
+    float: left;
+    margin: 10% ;
+    margin-top: 38%;
+    margin-left: 25%;
+    padding: 15% 17% 6% 17%;
+    background-color: #ffffff;
+    filter: none;
+  }
+
+.bg-pic{
+    width: 100%;
+    height: 92.4vh;
+    background-image:url('images/hero_bg.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    opacity: 1;
+    padding-bottom: 33%;
+    /* filter: blur(3px); */
+}

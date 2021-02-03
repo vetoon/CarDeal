@@ -1,0 +1,144 @@
+
+.App {
+    text-align: center;
+  }
+  .card-auth{
+    width:30%;
+
+  }
+  .card-border {
+    border-color: grey;
+    border-width: 2px ;
+    border-style: solid;
+    box-shadow: 6px 6px 4px grey
+  }
+
+  .logo-padding {
+    padding-top: 20px;
+  }
+  .inline-block{
+    display: inline-block;
+    margin:15px;
+  } 
+   .form-control{
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .card-auth{
+    margin-top: 4%;
+  }
+  .form-group{
+    margin-top: 15%;
+    margin-bottom: 15%;
+  } 
+  .btn-primary-auth{
+    background-color: #ff6600;
+    border-color: #ff6600;
+    display: block;
+    margin: auto;
+  
+  }
+  .btn-primary-auth:hover{
+    background-color: #ff1e00;
+    border-color: #ff1e00;
+  }
+  .hr{
+    width: 30%;
+  }
+  .centerErrorMessage{
+    text-align: center;
+  }
+  .search{
+   margin: auto;
+  }
+  /* .heading-content{
+    padding:1%;
+    color: rgb(0, 0, 0);
+    font-family: 'Helvetica', sans-serif;
+    background-color: #e6e1d2;
+    font-weight: 900;
+    font-size: 80px;
+    text-transform: uppercase;
+    line-height: 72px;
+  } */
+
+  .register {
+    color: grey;
+    text-align: center;
+  }
+
+  .register-white {
+    color: white;
+  }
+
+  .alert-manual {
+    text-align: center;
+  }
+  
+  .card-size-auth{
+     margin: auto;
+     margin-left: 6%;
+     margin-top: 5%;
+    height:370px;
+    width:25%;
+    background-color: #f8f9fa!important;
+    color:rgb(53, 52, 52)!important; 
+    float:left;
+    font-family: 'Helvetica', sans-serif;
+  } 
+  .card-size-auth:hover{
+    background: transparent;
+    transition: all 0.1s ease;
+    box-shadow: 4px 4px 12px 0px;
+  }
+  .ctitle-font{
+    font-family: 'Helvetica', cursive;
+    margin-bottom: 50px;
+    padding-top: 3px;
+  
+  }
+  .fix-to-bottom{
+    position: absolute;
+    bottom:5px;
+    left: 20px;
+    
+  }
+  .sign-out{
+    color: #000!important;
+    opacity: 0.5;
+  }
+  .mouse-hover:hover{
+    cursor: pointer;
+  }
+  .mouse-hover{
+    color:grey!important
+  }
+  .img-pr{
+    height: 40%;
+    width: 90%;
+  }
+  
+  .more {
+    color:white;
+  }
+  .more:hover{
+    color:white;
+  }
+  .details-design-firstpart{
+    display:block;
+    position: relative;
+    float: right;
+    
+  }
+  .img-size{
+    width:40%;
+    height: 40%;
+  }
+  .details-page{
+    margin:5%;
+  }
+  
+  .back-button{
+    color:white!important;
+    text-align: left;
+  }

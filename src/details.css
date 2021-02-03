@@ -1,0 +1,21 @@
+.details-design-firstpart{
+    display:block;
+    position: relative;
+    float: right;
+    
+  }
+
+  .details-page{
+    margin:5%;
+  }
+
+  .back-button{
+    color:white!important;
+    text-align: left;
+    background-color: #ff6600;
+  }
+
+  .img-size{
+    width:90%;
+    height: 40%;
+  }
